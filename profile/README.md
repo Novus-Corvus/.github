@@ -22,9 +22,11 @@ NovusCorvus is a collective of applications and resources built on the belief th
 Of course, we are all human, so these principles may not be initially kept during the beginnings of a project, but they're intended to be reached through time in development and eventual completion & maintenance.  
 ### Project Standards
 **Licensing requirements**  
-- Most projects under NovusCorvus shall be created and kept under the [GNU General Public License v3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html) to ensure open-source accessibility.  
+- Most projects under NovusCorvus shall be created and kept under the [GNU General Public License v3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html) to ensure open-source accessibility.
+
 **Documentation minimums**  
-- Documentation under projects should tell a brief description of "what" and "why". What is the project and why it came to be.  
+- Documentation under projects should tell a brief description of "what" and "why". What is the project and why it came to be.
+
 ## Contribution Philosophy
 Contributors can range from one-time issue solvers to active maintainers. Simply put, anyone can contribute to any active project, and if a contributor is noted to be frequently active and invested into a project, they can be deemed fit to join the active maintainers of said project.
 ## Governance
