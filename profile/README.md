@@ -1,38 +1,46 @@
-## Core concept
-NovusCorvus is a collective of applications and resources built on the belief that all tools should be accessible, understandable, easily modifiable, and free from unnecessary complexity. We pursue this through open-source, unobfuscated, and well-documented projects - spanning apps, APIs, libraries, and whatever form best serves the community.  
+# NovusCorvus
 
-***Accessible***
-- Easily downloadable and runnable, or straightforward to compile/build locally.
+**Tools should be accessible, understandable, and free to change.**
 
-***Understandable***
-- The purpose, design decisions, and overall architecture are clear without needing to dig through the code.
+NovusCorvus is a collective of apps, APIs, libraries, and resources built on the belief that software should be open, readable, and no more complicated than the problem demands. Everything we make is open-source, unobfuscated, and documented.
 
-***Easily modifiable***
-- Structured so that anyone can adapt, extend, or fork the project without unnecessary hassle.
+---
 
-***Free from unnecessary complexity***
-- Solutions should be as simple as the problem allows, avoiding over-engineering and unnecessary abstraction.
+## Principles
 
-***Unobfuscated***
-- Code written with clarity as a priority, never intentionally obscured or needlessly clever.
+| | |
+|---|---|
+| 🔓 **Accessible** | Easy to download and run, or straightforward to build locally. |
+| 🧭 **Understandable** | Purpose, design decisions, and architecture are clear without digging through the code. |
+| 🔧 **Modifiable** | Structured so anyone can adapt, extend, or fork the project without hassle. |
+| 🪶 **Simple** | As simple as the problem allows. No over-engineering, no needless abstraction. |
+| 👁️ **Unobfuscated** | Code is written for clarity, never intentionally obscured or needlessly clever. |
+| 📖 **Documented** | Every feature is described, so you never have to guess what something does. |
 
-***Documented***
-- All functionality described and understood at a glance.
+We're all human, and projects rarely start out meeting every one of these. They're goals to grow into as a project matures, not prerequisites for publishing it.
 
-Of course, we are all human, so these principles may not be initially kept during the beginnings of a project, but they're intended to be reached through time in development and eventual completion & maintenance.  
-### Project Standards
-**Licensing requirements**  
-- Most projects under NovusCorvus shall be created and kept under the [GNU General Public License v3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html) to ensure open-source accessibility.
+---
 
-**Documentation minimums**  
-- Documentation under projects should tell a brief description of "what" and "why". What is the project and why it came to be.
+## Project Standards
 
-## Contribution Philosophy
-Contributors can range from one-time issue solvers to active maintainers. Simply put, anyone can contribute to any active project, and if a contributor is noted to be frequently active and invested into a project, they can be deemed fit to join the active maintainers of said project.
+**Licensing**
+Most projects are released under the [GNU General Public License v3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html), so they, and anything derived from them, stay free and open.
+
+**Documentation minimum**
+Every project's README answers two questions: **what** is this, and **why** does it exist?
+
+---
+
+## Contributing
+
+Anyone can contribute to any active project, from a one-time bug fix to long-term maintenance. Contributors who are consistently active and invested in a project may be invited to become maintainers of it.
+
 ## Governance
-Decisions are made by active maintainers via consensus.  
-New projects are made by trusted collective members.  
-These criteria are not final, since the collective is in it's infancy.  
-## Maintenance Philosophy
-Projects may be in active development indefinitely, but when a project reaches completion or simply becomes a product that isn't worth expanding upon, it may become deprecated, but maintained with security updates, fixes of new issues due to OS updates, etc.  
-Old projects shall not simply be forgotten and unmaintained unless it is extremely annoying to or it's horribly outdated.
+
+- Active maintainers make decisions by **consensus**.
+- New projects are started by **trusted collective members**.
+- These rules aren't final. The collective is in its infancy, and they'll evolve with it.
+
+## Maintenance
+
+Projects may stay in active development indefinitely. When one is finished, or no longer worth expanding, it can be **deprecated**, but not abandoned. We'll keep supporting it with security updates and fixes for new issues (such as OS changes), unless it has become truly obsolete or impractical to maintain.
